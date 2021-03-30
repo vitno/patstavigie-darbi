@@ -6,3 +6,5 @@ number3 = int(number*3)
 result = number1 + number2 + number3
 
 print(f"{number1}+{number2}+{number3}={result}")
+
+print ("Edgars veica šīs izmaiņas")
