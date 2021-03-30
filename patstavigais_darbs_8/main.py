@@ -10,6 +10,7 @@ def index():
         "quote 3",
         "quote 4",
         "quote 5",
+        "quote 6",
     ]
 
     random_quote = random.choice(quotes)
